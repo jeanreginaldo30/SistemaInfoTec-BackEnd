@@ -19,4 +19,7 @@ sistemainfotec\Dados.class
 sistemainfotec\Usuario.class
 br\com\infotec\dao\UsuarioDAO.class
 br\com\infotec\dao\ProdutoDAO.class
+<<<<<<< HEAD
 br\com\infotec\service\CalculadoraVendas.class
+=======
+>>>>>>> 00e3657a28b7d30628b6d926d94d01e780dec59c
