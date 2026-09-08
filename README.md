@@ -1,6 +1,6 @@
 # Sistema InfoTec - Projeto Integrador
 
-Sistema de gestão e automação para assistência técnica e prestação de serviços, desenvolvido como parte do Projeto Integrador (Etapas de Front-End, Back-End e Banco de Dados).
+Sistema de gestão e automação para assistência técnica e prestação de serviços, desenvolvido como parte do Projeto Integrador do Curso Técnico em Desenvolvimento de Sistemas do Senac (Etapas de Front-End, Back-End e Banco de Dados).
 
 ## 🚀 Sobre o Projeto
 O **InfoTec** é uma aplicação voltada para o controle operacional de pequenas e médias empresas, permitindo o gerenciamento centralizado de:
